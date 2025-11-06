@@ -1,0 +1,11 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=breemind_back
+POSTGRES_USER=mXhiiwkxVciRfzNfAHrdBcBZfNJRhBfo
+POSTGRES_PASSWORD=MSYF5fA58fklKRfeW4ahPlZifSqamFvzh0wYfodUkAK6f4ucb26O6zaJRvXgTTM4
+
+
+# USE_DOCKER=yes
+# DATABASE_URL=postgres://breemind:breemind@127.0.0.1:5433/breemind_back
